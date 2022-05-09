@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIaQZ4QqD7k648/+wFiZTEQAAAAACAAAAAAAQZgAAAAEAACAAAAAR0Q15hcYMAusSclT1RlUHgr9tfz0W0jfQjRx+nZ+3+wAAAAAOgAAAAAIAACAAAACzbkNvbkRLNmpLu+CFlQlHb2L2dwzEqM8NOE/p2hpyCiAAAACKyZCLRDtZsSuOYIC0wPxt3KJujQJpPUEEgivml22nbUAAAAC0x9WbfK++Z4hAVs0u1Mk/xF+6H1vyuZ5JxM7MSzoGziZp8EdT5iHjUkr0GQC38TMKhpoEuqW1MYhI7LX88h/H</EncryptedPassword>
+    <History>True|2022-05-05T22:30:27.8437922Z;True|2022-05-05T19:18:10.8291977+03:00;False|2022-05-05T19:15:40.0922392+03:00;False|2022-05-05T19:13:21.1079676+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a86802_bhdb%3bUser Id=db_a86802_bhdb_admin%3bPassword=v8DBUX9G%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
